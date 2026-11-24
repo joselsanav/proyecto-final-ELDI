@@ -1,0 +1,22 @@
+# Archivos temporales y resultados regenerables de Vivado
+**/.Xil/
+**/*.cache/
+**/*.hw/
+**/*.ip_user_files/
+**/*.runs/
+**/*.sim/
+**/*.gen/
+**/.metadata/
+**/*.jou
+**/*.log
+**/*.wdb
+**/*.wcfg
+**/*.pb
+**/*.str
+**/*.backup.vdi
+*.swp
+*~
+.DS_Store
+Thumbs.db
+# Conservar expresamente: .xpr, .srcs, .xdc, .v, .mem,
+# bitstream/ y los reportes elegidos bajo docs/reportes/
